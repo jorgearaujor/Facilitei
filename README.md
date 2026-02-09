@@ -172,7 +172,7 @@ npm run dev
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/MOR4Xx">
+      <a href="https://github.com/jorgearaujor">
         <img src="https://github.com/MOR4Xx.png" width="100px;" alt="Foto do Jorge"/><br>
         <sub>
           <p>Jorge Afonso</p>
