@@ -173,7 +173,7 @@ npm run dev
     </td>
     <td align="center">
       <a href="https://github.com/jorgearaujor">
-        <img src="https://github.com/MOR4Xx.png" width="100px;" alt="Foto do Jorge"/><br>
+        <img src="https://github.com/jorgearaujor.png" width="100px;" alt="Foto Jorge"/><br>
         <sub>
           <p>Jorge Afonso</p>
           <b>Função: Back-End, Banco de Dados, Infraestrutura Docker e Documentação</b>
@@ -182,7 +182,7 @@ npm run dev
     </td>
     <td align="center">
       <a href="https://github.com/LDRRosa">
-        <img src="https://github.com/LDRRosa.png" width="100px;" alt="Foto do Leandro"/><br>
+        <img src="https://github.com/LDRRosa.png" width="100px;" alt="Foto Leandro"/><br>
         <sub>
           <p>Leandro</p>
           <b>Função: Back-End, Banco de Dados e Documentação</b>
@@ -193,7 +193,7 @@ npm run dev
   <tr>
     <td align="center">
       <a href="https://github.com/PedroR07">
-        <img src="https://github.com/PedroR07.png" width="100px;" alt="Foto do Pedro"/><br>
+        <img src="https://github.com/PedroR07.png" width="100px;" alt="Foto Pedro"/><br>
         <sub>
           <p>Pedro Cesar</p>
           <b>Função: Back-End</b>
@@ -202,7 +202,7 @@ npm run dev
     </td>
     <td align="center">
       <a href="https://github.com/ricardoissadesousa">
-        <img src="https://github.com/ricardoissadesousa.png" width="100px;" alt="Foto do Ricardo"/><br>
+        <img src="https://github.com/ricardoissadesousa.png" width="100px;" alt="Foto Ricardo"/><br>
         <sub>
           <p>Ricardo</p>
           <b>Contribuição: Back-End, Front-End e Documentação</b>
@@ -211,7 +211,7 @@ npm run dev
     </td>
     <td align="center">
       <a href="https://github.com/savioissa21">
-        <img src="https://github.com/savioissa21.png" width="100px;" alt="Foto do Savio"/><br>
+        <img src="https://github.com/savioissa21.png" width="100px;" alt="Foto Savio"/><br>
         <sub>
           <p>Savio</p>
           <b>Função: Back-End, Front-End e Documentação</b>
